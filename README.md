@@ -16,5 +16,4 @@ With propensity modeling through the feature importance analysis, I developed th
 2. Click "input".
 3. Click "PLXSELL.csv" file. 
 
-
 Data source: https://www.kaggle.com/dineshmk594/loan-campaign 
