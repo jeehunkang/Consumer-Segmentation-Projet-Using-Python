@@ -10,6 +10,10 @@ With propensity modeling through the feature importance analysis, I developed th
 
 Random Forest provided more accuate result than logistic regression. 
 
+{
+        "color": "F7EFE9",
+        "text": "363636"
+    },
 
 # Where to see my project
 1. Click "Data science project - customer segmentation" folder.
