@@ -1,6 +1,6 @@
 # What is the project about & Why I started this project? 
 
-I am currently working as an E-Commerce analyst at a consumer products company and I witnessed that implementing marketing strategies targeting likely customers contributes to cost minimization. Therefore I decided to work on a consumer segmentation project in which I can identify the "highly likey to respond" group.
+I am currently working as an E-Commerce analyst at a consumer products company and I witnessed that implementing marketing strategies targeting likely customers contributes to cost minimization. Therefore I decided to work on a consumer segmentation project in which I can identify the "highly likely to respond" group.
 
 # What I've done in the project
 
